@@ -104,25 +104,27 @@ I am an AI/ML Engineer with 7+ years of experience designing and deploying intel
 </p>
 
 ## 🗄️ Databases & Storage
-<p>
+<p style="white-space:nowrap;">
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" title="MySQL — Relational Database" style="margin-right:8px;"/>
+  </a>
   <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" title="PostgreSQL — Relational Database" style="margin-right:10px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL — Relational Database" style="margin-right:8px;"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" title="MongoDB — NoSQL Database" style="margin-right:10px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" title="MongoDB — NoSQL Database" style="margin-right:8px;"/>
   </a>
   <a href="https://redis.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50" title="Redis — In-memory Database" style="margin-right:10px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" title="Redis — In-memory Database" style="margin-right:8px;"/>
   </a>
-  <br>
   <a href="https://cassandra.apache.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" width="50" height="50" title="Cassandra — NoSQL Database" style="margin-right:10px;"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" width="40" height="40" title="Cassandra — NoSQL Database" style="margin-right:8px;"/>
   </a>
   <a href="https://hive.apache.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="50" height="50" title="Hive — Data Warehouse" style="margin-right:10px;"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="40" height="40" title="Hive — Data Warehouse" style="margin-right:8px;"/>
   </a>
   <a href="https://hadoop.apache.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="50" height="50" title="Hadoop — Big Data Framework"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40" title="Hadoop — Big Data Framework"/>
   </a>
 </p>
 
@@ -281,9 +283,30 @@ I am an AI/ML Engineer with 7+ years of experience designing and deploying intel
 
 
 ---
-
-
-
+<!--
+## 🗄️ Databases & Storage
+<p>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" title="PostgreSQL — Relational Database" style="margin-right:10px;"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" title="MongoDB — NoSQL Database" style="margin-right:10px;"/>
+  </a>
+  <a href="https://redis.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50" title="Redis — In-memory Database" style="margin-right:10px;"/>
+  </a>
+  <br>
+  <a href="https://cassandra.apache.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" width="50" height="50" title="Cassandra — NoSQL Database" style="margin-right:10px;"/>
+  </a>
+  <a href="https://hive.apache.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="50" height="50" title="Hive — Data Warehouse" style="margin-right:10px;"/>
+  </a>
+  <a href="https://hadoop.apache.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="50" height="50" title="Hadoop — Big Data Framework"/>
+  </a>
+</p>
+-->
 
 
 
