@@ -81,8 +81,6 @@ I am an AI/ML Engineer with 7+ years of experience designing and deploying intel
   </a>
 </p>
 
----
-
 ## ☁️ Cloud & DevOps
 <p>
   <a href="https://aws.amazon.com" target="_blank">
@@ -104,8 +102,6 @@ I am an AI/ML Engineer with 7+ years of experience designing and deploying intel
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="50" height="50" title="Heroku — Cloud Platform"/>
   </a>
 </p>
-
----
 
 ## 🗄️ Databases & Storage
 <p>
@@ -130,8 +126,6 @@ I am an AI/ML Engineer with 7+ years of experience designing and deploying intel
   </a>
 </p>
 
----
-
 ## 🤖 Machine Learning & AI
 <p>
   <a href="https://pytorch.org/" target="_blank">
@@ -154,8 +148,6 @@ I am an AI/ML Engineer with 7+ years of experience designing and deploying intel
   </a>
 </p>
 
----
-
 ## 🌐 Web & Frameworks
 <p>
   <a href="https://www.djangoproject.com/" target="_blank">
@@ -166,7 +158,33 @@ I am an AI/ML Engineer with 7+ years of experience designing and deploying intel
   </a>
 </p>
 
+---
 
+## 📌 Featured Projects
+
+### 🔹 Production RAG Application
+
+* Built a domain-specific "Ask My Docs" system
+* Hybrid Retrieval (BM25 + Vector Search)
+* Cross-encoder re-ranking and citation enforcement
+* CI/CD evaluation pipeline
+
+### 🔹 NLP SMS Classification
+
+* Cleaned and processed real-world noisy SMS data
+* Built classification models using DistilBERT
+* Improved model accuracy through preprocessing strategies
+
+### 🔹 WiFi-based Indoor Localization
+
+* Used RSSI signals for indoor positioning
+* Compared SVM, KNN, and Distance-based models
+* Focused on elderly safety monitoring use case
+
+### 🔹 Face Recognition System
+
+* Built real-time face recognition pipeline
+* Integrated with cloud deployment concepts (IaaS/PaaS/SaaS)
 
 
 
@@ -420,31 +438,7 @@ I am an AI/ML Engineer with 6+ years of experience designing and deploying intel
 
 ---
 
-## 📌 Featured Projects
 
-### 🔹 Production RAG Application
-
-* Built a domain-specific "Ask My Docs" system
-* Hybrid Retrieval (BM25 + Vector Search)
-* Cross-encoder re-ranking and citation enforcement
-* CI/CD evaluation pipeline
-
-### 🔹 NLP SMS Classification
-
-* Cleaned and processed real-world noisy SMS data
-* Built classification models using DistilBERT
-* Improved model accuracy through preprocessing strategies
-
-### 🔹 WiFi-based Indoor Localization
-
-* Used RSSI signals for indoor positioning
-* Compared SVM, KNN, and Distance-based models
-* Focused on elderly safety monitoring use case
-
-### 🔹 Face Recognition System
-
-* Built real-time face recognition pipeline
-* Integrated with cloud deployment concepts (IaaS/PaaS/SaaS)
 
 ---
 
