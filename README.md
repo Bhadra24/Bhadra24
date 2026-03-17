@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Veerabhadra Rao 
 
 🚀 **AI Engineer | Machine Learning Engineer | Data Scientist**
+
 💡 Building real-world AI solutions using **Generative AI, NLP, Computer Vision, and MLOps**
 
 ---
@@ -10,16 +11,15 @@
 I am an AI/ML Engineer with 7+ years of experience designing and deploying intelligent systems across domains like data science, manufacturing, and consulting. I specialize in building scalable AI applications including RAG pipelines, chatbots, and machine learning models.
 
 🎓 Master's in Artificial Intelligence
-📈 Currently open to Full-time / Internship / Contract opportunities
 
----
+📈 Currently open to Full-time / Internship / Contract opportunities
 
 <!-- <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhadra24&label=Profile%20views&color=0e75b6&style=flat" alt="bhadra24" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhadra24" alt="bhadra24" /></a> </p> -->
-<img src="https://github-profile-trophy.vercel.app/?username=bhadra24&theme=darkhub&margin-w=15" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=bhadra24&theme=darkhub&margin-w=15" /> -->
 
 - 🔭 I’m currently working on ****production-grade AI applications**, including RAG pipelines, LLM-based systems, and end-to-end ML deployments.**
 
@@ -31,23 +31,13 @@ I am an AI/ML Engineer with 7+ years of experience designing and deploying intel
 
 - 💬 Ask me about **Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, and building real-world AI projects**
 
-- 📫 How to reach me ****mvrao1221@gmail.com | LinkedIn (add your link)****
-
 - ⚡ Fun fact **I transitioned from solving industrial problems to building scalable AI systems 🚀**
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* 🧑‍💻 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-
----
-
-## 🌐 Connect With Me
-
-* 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* 🧑‍💻 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+* 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/m-v-rao)
+* 🧑‍💻 GitHub: [https://github.com/yourusername](https://github.com/Bhadra24)
+* 📧 Email: [your.email@example.com](mailto:mvrao1221@gmail.com)
 
 ---
 
