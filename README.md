@@ -41,6 +41,29 @@ I am an AI/ML Engineer with 7+ years of experience designing and deploying intel
 * 💼 LinkedIn: [My Profile](https://linkedin.com/in/m-v-rao)
 * 🧑‍💻 GitHub: [My Projects](https://github.com/Bhadra24)
 * 📧 Email: [Contact Me](mailto:mvrao1221@gmail.com)
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/m-v-rao" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="https://github.com/Bhadra24" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-View%20Projects-black?style=for-the-badge&logo=github" />
+  </a>
+  
+  <a href="mailto:mvrao1221@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+
+
+
+
+
+
 ---
 
 ## 📄 Resume
