@@ -21,6 +21,7 @@ I am an AI/ML Engineer with 7+ years of experience designing and deploying intel
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhadra24" alt="bhadra24" /></a> </p> -->
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=bhadra24&theme=darkhub&margin-w=15" /> -->
 
+
 - 🔭 I’m currently working on ****production-grade AI applications**, including RAG pipelines, LLM-based systems, and end-to-end ML deployments.**
 
 - 🌱 I’m currently learning **advanced MLOps, scalable AI architecture, and real-time data pipelines (ETL/ELT)**
@@ -33,11 +34,13 @@ I am an AI/ML Engineer with 7+ years of experience designing and deploying intel
 
 - ⚡ Fun fact **I transitioned from solving industrial problems to building scalable AI systems 🚀**
 
+---
+
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/m-v-rao)
-* 🧑‍💻 GitHub: [https://github.com/yourusername](https://github.com/Bhadra24)
-* 📧 Email: [your.email@example.com](mailto:mvrao1221@gmail.com)
+* 💼 LinkedIn: [https://linkedin.com/in/m-v-rao](https://linkedin.com/in/yourprofile)
+* 🧑‍💻 GitHub: [https://github.com/Bhadra24](https://github.com/yourusername)
+* 📧 Email: [mvrao1221@gmail.com](mailto:your.email@example.com)
 
 ---
 
