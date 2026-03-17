@@ -14,9 +14,9 @@ I am an AI/ML Engineer with 7+ years of experience designing and deploying intel
 
 ---
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhadra24&label=Profile%20views&color=0e75b6&style=flat" alt="bhadra24" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhadra24&label=Profile%20views&color=0e75b6&style=flat" alt="bhadra24" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhadra24" alt="bhadra24" /></a> </p>
 
